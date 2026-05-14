@@ -193,10 +193,3 @@ database='e_book_date'
 
 - YuHenghusb
 
-## 📧 联系方式
-
-如有问题或建议，欢迎提交 Issue 或 Pull Request。
-
----
-
-**最后更新**: 2026-05-14
